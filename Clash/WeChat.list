@@ -1,4 +1,4 @@
 # 微信FCM推送
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
-DOMAIN-KEYWORD,short.weixin.qq.com
+DOMAIN-SUFFIX,weixin.qq.com
