@@ -1,4 +1,4 @@
 # 微信FCM推送
-DOMAIN-KEYWORD,weixin.qq.com
-DOMAIN-KEYWORD,weixin.qq.com.cn
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,weixin.qq.com.cn
 GEOIP,HK
