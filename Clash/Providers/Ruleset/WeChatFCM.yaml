@@ -1,7 +1,6 @@
 payload:
   # 微信FCM推送
-  - DOMAIN-SUFFIX,short.weixin.qq.com,🔰国外流量
-  - DOMAIN-SUFFIX,short.wechat.qq.com,🔰国外流量
-  - DOMAIN-SUFFIX,long.weixin.qq.com,🔰国外流量
-  - DOMAIN-SUFFIX,long.wechat.qq.com,🔰国外流量
-  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn,REJECT
+  - DOMAIN-SUFFIX,short.weixin.qq.com
+  - DOMAIN-SUFFIX,short.wechat.qq.com
+  - DOMAIN-SUFFIX,long.weixin.qq.com
+  - DOMAIN-SUFFIX,long.wechat.qq.com
